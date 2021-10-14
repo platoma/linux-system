@@ -1,0 +1,1 @@
+/home/yujin/linux-5.10.73/scripts/gdb/vmlinux-gdb.py
